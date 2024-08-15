@@ -1,0 +1,1 @@
+# Run pip freeze for the system interpreter. Take the content and create a similar virtual environment
